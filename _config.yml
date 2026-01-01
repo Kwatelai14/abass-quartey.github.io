@@ -1,1 +1,6 @@
-
+title: Abass
+logo: assets/images/pp.jpg
+show_downloads: True
+remote_theme: pages-themes/Cayman
+plugins:
+- jekyll-remote-theme
